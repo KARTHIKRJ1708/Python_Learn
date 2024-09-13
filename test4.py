@@ -1,0 +1,10 @@
+L1=list(range(1,7))
+print(L1)
+print(L1[0:6])
+L2=L1[5:0:-5]
+L3=L1[1:5:1]
+L4=L1[0::-6]
+print(L2)
+print(L3)
+print(L4)
+print(set(L2+L3+L4))
