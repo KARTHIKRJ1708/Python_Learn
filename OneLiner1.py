@@ -1,0 +1,1 @@
+marks=[89,91,79,90,87,90,89,91,99]; print([marks.count(i) for i in marks])
